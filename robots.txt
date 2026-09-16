@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mnrqqtzytmm3.github.io/note-uk-no-card-0002/sitemap.xml
